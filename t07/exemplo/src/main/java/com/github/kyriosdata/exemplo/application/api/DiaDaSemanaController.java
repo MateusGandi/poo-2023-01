@@ -4,10 +4,10 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.mateusgandi.exemplo.application.api;
+package com.github.MateusGandi.exemplo.application.api;
 
-import com.github.mateusgandi.exemplo.domain.Calendario;
-import com.github.mateusgandi.exemplo.domain.DiaDaSemana;
+import com.github.MateusGandi.exemplo.domain.Calendario;
+import com.github.MateusGandi.exemplo.domain.DiaDaSemana;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

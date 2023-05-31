@@ -1,7 +1,7 @@
-[![Build Status](https://app.travis-ci.com/mateusgandi/exemplo.svg)](https://app.travis-ci.com/github/mateusgandi/exemplo)
-[![SonarCloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.github.mateusgandi%3Aexemplo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.mateusgandi%3Aexemplo)
-[![Known Vulnerabilities](https://snyk.io/test/github/mateusgandi/exemplo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/mateusgandi/exemplo)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.mateusgandi/exemplo/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.mateusgandi/exemplo)
+[![Build Status](https://app.travis-ci.com/MateusGandi/exemplo.svg)](https://app.travis-ci.com/github/MateusGandi/exemplo)
+[![SonarCloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.github.MateusGandi%3Aexemplo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.MateusGandi%3Aexemplo)
+[![Known Vulnerabilities](https://snyk.io/test/github/MateusGandi/exemplo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/MateusGandi/exemplo)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.MateusGandi/exemplo/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.MateusGandi/exemplo)
 
 ## Escopo, pré-requisitos e objetivo
 
@@ -23,7 +23,7 @@ Para ilustrar o projeto inclui:
 
 ## Iniciando...
 
-- `git clone https://github.com/mateusgandi/exemplo`
+- `git clone https://github.com/MateusGandi/exemplo`
 - `cd exemplo`
 
 Agora você poderá executar os vários comandos abaixo.
@@ -105,7 +105,7 @@ A execução e exemplos de chamadas são fornecidos na seção seguinte.
     _http://localhost:8080/ds?data=01-01-2015_.
   - Via linha de comandos (curl), `curl http://localhost:8080/ds` ou `curl http://localhost:8080/ds?data=01-01-200`.
   - Página HTML (há uma interface gráfica) no diretório **gui**, basta abrir
-    o arquivo [index.html](http://htmlpreview.github.com/?https://raw.githubusercontent.com/mateusgandi/exemplo/master/gui/index.html).
+    o arquivo [index.html](http://htmlpreview.github.com/?https://raw.githubusercontent.com/MateusGandi/exemplo/master/gui/index.html).
 
 ## Produzindo código executável (native image)
 

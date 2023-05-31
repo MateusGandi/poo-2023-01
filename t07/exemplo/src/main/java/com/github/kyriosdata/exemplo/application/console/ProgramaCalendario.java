@@ -4,9 +4,9 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.mateusgandi.exemplo.application.console;
+package com.github.MateusGandi.exemplo.application.console;
 
-import com.github.mateusgandi.exemplo.domain.Calendario;
+import com.github.MateusGandi.exemplo.domain.Calendario;
 
 /**
  * Programa que exibe o dia da semana para o dia em que é executado.

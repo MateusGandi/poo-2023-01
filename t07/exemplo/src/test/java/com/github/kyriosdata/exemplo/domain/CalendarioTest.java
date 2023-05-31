@@ -4,7 +4,7 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.mateusgandi.exemplo.domain;
+package com.github.MateusGandi.exemplo.domain;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47584d90-d184-4d44-98ab-c5aa08949f34" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/Dockerfile.jdk11" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/Dockerfile.jdk11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/application/api/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/application/api/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/application/api/DiaDaSemanaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/application/api/DiaDaSemanaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/application/console/ProgramaCalendario.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/application/console/ProgramaCalendario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/domain/Calendario.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/domain/Calendario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/domain/DiaDaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/domain/DiaDaSemana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/domain/NumeroUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/domain/NumeroUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/main/java/com/github/kyriosdata/exemplo/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/test/java/com/github/kyriosdata/exemplo/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/test/java/com/github/kyriosdata/exemplo/domain/CalendarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/src/test/java/com/github/kyriosdata/exemplo/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/src/test/java/com/github/kyriosdata/exemplo/domain/NumeroUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t07/exemplo/tools/spotbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/t07/exemplo/tools/spotbugs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QZwAGpA9LNrgvvQHqu6zLHxE2l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/aluno/poo-2023-01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47584d90-d184-4d44-98ab-c5aa08949f34" name="Changes" comment="" />
+      <created>1685574265626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685574265626</updated>
+    </task>
+    <servers />
+  </component>
+</project>

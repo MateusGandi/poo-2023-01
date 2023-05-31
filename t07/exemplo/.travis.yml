@@ -1,7 +1,7 @@
 language: java
 
 script:
-  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.organization="mateusgandi-github" -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=$SONAR_TOKEN
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.organization="MateusGandi-github" -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=$SONAR_TOKEN
 cache:
   directories:
     - "$HOME/.m2/repository"

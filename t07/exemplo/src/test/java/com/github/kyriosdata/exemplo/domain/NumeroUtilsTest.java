@@ -4,7 +4,7 @@
  * Fábio Nogueira de Lucena
  */
 
-package com.github.mateusgandi.exemplo.domain;
+package com.github.MateusGandi.exemplo.domain;
 
 import org.junit.jupiter.api.Test;
 
